@@ -1,2 +1,3 @@
 # NaturalDAO
-Smart contracts
+Please read the documentation:
+https://docs.naturaldao.io/
